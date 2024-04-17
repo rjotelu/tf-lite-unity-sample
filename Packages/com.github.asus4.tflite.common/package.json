@@ -13,6 +13,6 @@
   "type": "library",
   "hideInEditor": false,
   "dependencies": {
-    "com.github.asus4.tflite": "2.4.1"
+    "com.github.asus4.tflite": "2.16.1"
   }
 }
